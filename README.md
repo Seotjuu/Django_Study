@@ -1,5 +1,4 @@
 # Django Study Project
------------
 + Python 다운로드
 
 + 가상환경 생성
