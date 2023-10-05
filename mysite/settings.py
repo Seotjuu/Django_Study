@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'polls.apps.PollsConfig', # polls 앱의 config 파일을 등록한다
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
